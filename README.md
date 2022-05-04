@@ -14,4 +14,12 @@
   <img width="44px" src="https://simpleicons.org/icons/css3.svg">
   <img width="44px" src="https://simpleicons.org/icons/javascript.svg">
   <img width="44px" src="https://simpleicons.org/icons/react.svg">
+  <img width="44px" src="https://simpleicons.org/icons/wordpress.svg">
+  <img width="44px" src="https://simpleicons.org/icons/microsoftsqlserver.svg">
+  <img width="44px" src="https://simpleicons.org/icons/sqlite.svg">
+  <img width="44px" src="https://simpleicons.org/icons/android.svg">
+  <img width="44px" src="https://simpleicons.org/icons/java.svg">
+  <img width="44px" src="https://simpleicons.org/icons/cplusplus.svg">
+  <img width="44px" src="https://simpleicons.org/icons/csharp.svg">
+
 </div>
