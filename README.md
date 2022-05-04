@@ -10,8 +10,8 @@
 ## Languages and Tools 🪄
 
 <div align="center">
-  <img src="https://simpleicons.org/icons/html5.svg">
-  <img src="https://simpleicons.org/icons/css3.svg">
-  <img src="https://simpleicons.org/icons/html5.svg">
-  <img src="https://simpleicons.org/icons/html5.svg">
+  <img width="44px" src="https://simpleicons.org/icons/html5.svg">
+  <img width="44px" src="https://simpleicons.org/icons/css3.svg">
+  <img width="44px" src="https://simpleicons.org/icons/javascript.svg">
+  <img width="44px" src="https://simpleicons.org/icons/react.svg">
 </div>
