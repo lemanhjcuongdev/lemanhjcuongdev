@@ -7,7 +7,7 @@
 - 😄 Pronouns: Mr./He/dude/guy :>
 - ⚡ Fun fact: "Ask my friends 😅"
 
-## Languages and Tools 🪄
+## Languages I used 🪄
 
 <div align="center">
   <img width="44px" src="https://simpleicons.org/icons/html5.svg">
@@ -16,7 +16,7 @@
   <img width="44px" src="https://simpleicons.org/icons/react.svg">
   <img width="44px" src="https://simpleicons.org/icons/wordpress.svg">
   <img width="44px" src="https://simpleicons.org/icons/microsoftsqlserver.svg">
-  <img width="44px" src="https://simpleicons.org/icons/sqlite.svg">
+  <img width="44px" title="SQLite" src="https://simpleicons.org/icons/sqlite.svg">
   <img width="44px" src="https://simpleicons.org/icons/android.svg">
   <img width="44px" src="https://simpleicons.org/icons/java.svg">
   <img width="44px" src="https://simpleicons.org/icons/cplusplus.svg">
