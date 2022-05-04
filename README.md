@@ -10,5 +10,5 @@
 ## Languages and Tools 🪄
 
 <div align="center">
-  <img width="44px" src="https://simpleicons.org/icons/html5.svg">
+  <img width="44px" color="red" src="https:///simpleicons.org/icons/html5.svg">
 </div>
