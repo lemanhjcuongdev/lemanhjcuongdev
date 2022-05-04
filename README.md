@@ -1,9 +1,9 @@
 ## Hi there 🫰🏻
 
 - 🔭 I’m currently working on Hanoi Open University (FITHOU Sophomore Student)
-- 🌱 I’m currently learning Web Developer
+- 🌱 I’m currently learning Web Development
 - 💬 Ask me about whatever
-- 📫 How to reach me: <a href="https://lemanhjcuongdev.github.io/FAKE-CV/">FAKE-CV repo</a>
+- 📫 How to reach me: <a href="https://lemanhjcuongdev.github.io/FAKE-CV/">Lê Mạnh Cường</a>
 - 😄 Pronouns: Mr./He/dude/guy :>
 - ⚡ Fun fact: "Ask my friends 😅"
 
@@ -25,6 +25,9 @@
 ## Github Stats 😅
 
 <br>
+<span>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemanhjcuongdev&layout=compact&theme=radical&langs_count=9)
 ![Github Status](https://github-readme-stats.vercel.app/api?username=lemanhjcuongdev&show_icons=true&theme=radical)
+
+</span>
