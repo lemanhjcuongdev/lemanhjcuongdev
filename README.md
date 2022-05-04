@@ -26,5 +26,5 @@
 
 <br>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemanhjcuongdev&layout=compact&theme=radical&langs_count=9)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemanhjcuongdev&layout=compact&theme=light&langs_count=6)
 ![Github Status](https://github-readme-stats.vercel.app/api?username=lemanhjcuongdev&show_icons=true&theme=light)
