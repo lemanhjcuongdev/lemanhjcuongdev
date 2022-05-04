@@ -9,5 +9,5 @@
 
 ## Languages and Tools 🪄
 <div align="center">
-  <img src="https://simpleicons.org/icons/html5.svg">
+  <img width="100px" src="https://simpleicons.org/icons/html5.svg">
 </div>
