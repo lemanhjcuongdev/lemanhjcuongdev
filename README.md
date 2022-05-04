@@ -25,4 +25,7 @@
 ## Github Stats 😅
 
 <br>
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemanhjcuongdev&layout=compact&theme=radical&langs_count=9)![Github Status](https://github-readme-stats.vercel.app/api?username=lemanhjcuongdev&show_icons=true&theme=radical)
+<span>
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemanhjcuongdev&layout=compact&theme=radical&langs_count=9)
+![Github Status](https://github-readme-stats.vercel.app/api?username=lemanhjcuongdev&show_icons=true&theme=radical)
+</span>
