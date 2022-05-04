@@ -10,8 +10,8 @@
 ## Languages I used 🪄
 
 <div align="center">
-  <img width="44px" title="HTML-5" src="https://simpleicons.org/icons/html5.svg">
-  <img width="44px" title="CSS-3" src="https://simpleicons.org/icons/css3.svg">
+  <img width="44px" title="HTML5" src="https://simpleicons.org/icons/html5.svg">
+  <img width="44px" title="CSS3" src="https://simpleicons.org/icons/css3.svg">
   <img width="44px" title="JavaScript" src="https://simpleicons.org/icons/javascript.svg">
   <img width="44px" title="ReactJS" src="https://simpleicons.org/icons/react.svg">
   <img width="44px" title="Wordpress" src="https://simpleicons.org/icons/wordpress.svg">
