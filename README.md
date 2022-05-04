@@ -22,9 +22,9 @@
   <img width="44px" title="C#" src="https://simpleicons.org/icons/csharp.svg">
 </div>
 
-## Github Status 😅
+## Github Stats 😅
 
-![Profile views](https://komarev.com/ghpvc/?username=pcldev)
+![Profile views](https://komarev.com/ghpvc/?username=lemanhjcuongdev)
 <br>
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemanhjcuongdev&layout=compact&theme=radical&langs_count=6)
 ![Github Status](https://github-readme-stats.vercel.app/api?username=lemanhjcuongdev&show_icons=true&theme=radical)
