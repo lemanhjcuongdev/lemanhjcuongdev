@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Hanoi Open University (FITHOU Sophomore Student)
 - 🌱 I’m currently learning Web Developer
 - 💬 Ask me about whatever
-- 📫 How to reach me: FAKE-CV below
+- 📫 How to reach me:<a href="https://lemanhjcuongdev.github.io/FAKE-CV/">FAKE-CV repo</a>
 - 😄 Pronouns: Mr./He/dude/guy :>
 - ⚡ Fun fact: "Ask my friends 😅"
 
@@ -20,5 +20,4 @@
   <img width="44px" title="Java" src="https://simpleicons.org/icons/java.svg">
   <img width="44px" title="c++" src="https://simpleicons.org/icons/cplusplus.svg">
   <img width="44px" title="c#" src="https://simpleicons.org/icons/csharp.svg">
-
 </div>
