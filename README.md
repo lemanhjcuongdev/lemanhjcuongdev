@@ -1,5 +1,4 @@
 ## Hi there 🫰🏻
-
 - 🔭 I’m currently working on Hanoi Open University (FITHOU Sophomore Student)
 - 🌱 I’m currently learning Web Developer
 - 💬 Ask me about whatever
@@ -8,7 +7,6 @@
 - ⚡ Fun fact: "Ask my friends 😅"
 
 ## Languages I used 🪄
-
 <div align="center">
   <img width="44px" title="HTML-5" src="https://simpleicons.org/icons/html5.svg">
   <img width="44px" title="CSS-3" src="https://simpleicons.org/icons/css3.svg">
@@ -23,8 +21,6 @@
 </div>
 
 ## Github Stats 😅
-
-![Profile views](https://komarev.com/ghpvc/?username=lemanhjcuongdev)
 <br>
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemanhjcuongdev&layout=compact&theme=radical&langs_count=6)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemanhjcuongdev&layout=compact&theme=radical&langs_count=9)
 ![Github Status](https://github-readme-stats.vercel.app/api?username=lemanhjcuongdev&show_icons=true&theme=radical)
