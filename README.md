@@ -10,16 +10,15 @@
 ## Languages I used 🪄
 
 <div align="center">
-  <img width="44px" title="HTML5" src="https://simpleicons.org/icons/html5.svg">
-  <img width="44px" title="CSS3" src="https://simpleicons.org/icons/css3.svg">
-  <img width="44px" title="JavaScript" src="https://simpleicons.org/icons/javascript.svg">
-  <img width="44px" title="ReactJS" src="https://simpleicons.org/icons/react.svg">
-  <img width="44px" title="Wordpress" src="https://simpleicons.org/icons/wordpress.svg">
-  <img width="44px" title="SQL Server" src="https://simpleicons.org/icons/microsoftsqlserver.svg">
-  <img width="44px" title="Android" src="https://simpleicons.org/icons/android.svg">
-  <img width="44px" title="Java" src="https://simpleicons.org/icons/java.svg">
-  <img width="44px" title="C++" src="https://simpleicons.org/icons/cplusplus.svg">
-  <img width="44px" title="C#" src="https://simpleicons.org/icons/csharp.svg">
+  <img src="https://img.icons8.com/dusk/64/000000/html-5.png" title="HTML5"/>
+  <img src="https://img.icons8.com/dusk/64/000000/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/dusk/64/000000/javascript.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/dusk/64/000000/react.png" title="ReactJS 17"/>
+  <img src="https://img.icons8.com/dusk/64/000000/sql.png" title="SQL Server"/>
+  <img src="https://img.icons8.com/dusk/64/000000/android-os.png" title="Android"/>
+  <img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/dusk/64/000000/c-plus-plus.png"/>
+  <img src="https://img.icons8.com/dusk/64/000000/cs.png"/>
 </div>
 
 ## Github Stats 😅
