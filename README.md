@@ -1,11 +1,11 @@
 ## Hi there 🫰🏻
 
-- 🔭 I’m currently working on Hanoi Open University (FITHOU Sophomore Student)
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently studying at Hanoi Open University (FITHOU)
+- 🌱 I’m currently learning Front-End Web Development
 - 💬 Ask me about whatever
 - 📫 How to reach me: <a href="https://lemanhjcuongdev.github.io/FAKE-CV/">Lê Mạnh Cường</a>
 - 😄 Pronouns: Mr./He/dude/guy :>
-- ⚡ Fun fact: "Ask my friends 😅"
+- ⚡ Fun fact: "Ask my close friends 😅"
 
 ## Languages I used 🪄
 
