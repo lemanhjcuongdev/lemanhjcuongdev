@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning <b>Front-End Web Development</b>
 - 💬 Ask me about whatever
 - 📫 How to reach me: <a href="https://lemanhjcuongdev.github.io/FAKE-CV/">Lê Mạnh Cường</a>
-- 😄 Pronouns: Mr./He/dude/guy :>
+- 😄 Pronouns: Mr./He 🙆🏻‍♂️
 - ⚡ Fun fact: "Ask my close friends 😅"
 
 ## Languages I used 🪄
