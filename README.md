@@ -1,4 +1,4 @@
-## Hi there 🫰🏻
+## Hi there 🥰😗
 
 - 🔭 I’m currently studying at Hanoi Open University (FITHOU)
 - 🌱 I’m currently learning <b>Front-End Web Development</b>
