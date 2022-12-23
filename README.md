@@ -5,7 +5,7 @@
 - 💬 Ask me about whatever
 - 📫 How to reach me: <a href="https://lemanhjcuongdev.github.io/FAKE-CV/">Lê Mạnh Cường</a>
 - 😄 Pronouns: Mr./He 🙆🏻‍♂️
-- ⚡ Fun fact: "Ask my close friends 😅"
+- ⚡ Fun fact: "I like every kind of music🔀"
 
 ## Languages I used 🙄
 
