@@ -17,11 +17,8 @@
   <img src="https://img.icons8.com/fluency/64/000000/typescript--v2.png" title="TypeScript"/>
   <img src="https://img.icons8.com/dusk/64/000000/react.png" title="React 17"/>
   <img src="https://img.icons8.com/color/64/null/nextjs.png" title="Next.js"/>
-  <img src="https://img.icons8.com/dusk/64/000000/sql.png" title="SQL Server"/>
-  <img src="https://img.icons8.com/dusk/64/000000/android-os.png" title="Android"/>
-  <img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/dusk/64/000000/c-plus-plus.png"/>
-  <img src="https://img.icons8.com/dusk/64/000000/cs.png"/>
+  <img src="https://img.icons8.com/fluency/64/null/node-js.png" title="Node.js"/>
+  <img src="https://img.icons8.com/color/64/null/mongodb.png" title="MongoDB"/>
 </div>
 
 ## Github Stats 😅
