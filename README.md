@@ -17,7 +17,7 @@
   <img src="https://img.icons8.com/fluency/64/000000/typescript--v2.png" title="TypeScript"/>
   <img src="https://img.icons8.com/dusk/64/000000/react.png" title="React 17"/>
   <img src="https://img.icons8.com/color/64/null/nextjs.png" title="Next.js"/>
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/nail-polish_1f485.png" width="120px" title="Styled-component"/>
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/nail-polish_1f485.png" title="Styled-component" style="width: 64px", max-width: 64px/>
 </div>
 
 ## Github Stats 😅
