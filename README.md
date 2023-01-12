@@ -7,7 +7,7 @@
 - 😄 Pronouns: Mr./He 🙆🏻‍♂️
 - ⚡ Fun fact: "I like every kind of music🔀"
 
-## Languages I used 🙄
+## Languages, Frameworks, Libraries I used 🙄
 
 <div align="center">
   <img src="https://img.icons8.com/dusk/64/000000/html-5.png" title="HTML5"/>
