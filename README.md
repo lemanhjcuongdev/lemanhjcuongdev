@@ -1,6 +1,6 @@
 ## Hi there 🥰😗
 
-- 🔭 I’m currently studying at Hanoi Open University (FITHOU)
+- 🔭 I’m currently studying Software Engineering - IT at Hanoi Open University (FITHOU)
 - 🌱 I’m currently learning <b>Front-End Web Development</b>
 - 💬 Ask me about whatever
 - 📫 How to reach me: <a href="https://lemanhjcuongdev.github.io/FAKE-CV/">Lê Mạnh Cường</a>
