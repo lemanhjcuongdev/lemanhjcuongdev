@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning <b>Front-End Web Development</b>
 - 💬 Ask me about whatever
 - 📫 How to reach me: <a href="https://lemanhjcuongdev.github.io/FAKE-CV/">Lê Mạnh Cường</a>
-- 😄 Pronouns: Mr./He 🙆🏻‍♂️
 - ⚡ Fun fact: "I like every kind of music🔀"
 
 ## Highlighted Languages, Frameworks, Libraries I used 🙄
@@ -24,5 +23,5 @@
 
 <br>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemanhjcuongdev&layout=compact&theme=light&langs_count=6)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemanhjcuongdev&layout=compact&theme=light&langs_count=8)
 ![Github Status](https://github-readme-stats.vercel.app/api?username=lemanhjcuongdev&show_icons=true&theme=light)
