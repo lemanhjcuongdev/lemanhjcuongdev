@@ -1,7 +1,7 @@
 ## Hi there 🥰😗
 
 - 🔭 I’m currently studying Software Engineering - IT at Hanoi Open University (FITHOU)
-- 🌱 I’m currently learning <b>Front-End Web Development</b>
+- 🌱 I learn <b>Front-End Web Development</b> & orient toward <b>Full Stack Web Development</b>
 - 💬 Ask me about whatever
 - 📫 How to reach me: <a href="https://lemanhjcuongdev.github.io/FAKE-CV/">Lê Mạnh Cường</a>
 - ⚡ Fun fact: "I like every kind of music🔀"
