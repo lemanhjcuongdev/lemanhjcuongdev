@@ -8,7 +8,6 @@
 ## Highlighted Languages, Frameworks, Libraries I used 🙄
 
 <div align="center">
-  <img src="https://img.icons8.com/dusk/64/000000/html-5.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/64/null/sass-avatar.png"/>
   <img src="https://img.icons8.com/fluency/64/000000/typescript--v2.png" title="TypeScript"/>
   <img src="https://img.icons8.com/dusk/64/000000/react.png" title="React 17"/>
