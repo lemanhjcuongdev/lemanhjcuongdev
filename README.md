@@ -1,7 +1,7 @@
 ## Hi there 🥰😗
 
 - 🔭 I graduated at the Software Engineering - IT at Hanoi Open University (FITHOU)
-- 🌱 I learn <b>Front-End Web Development</b> & aim  <b>Full Stack Web Development</b>
+- 🌱 I learn <b>Front-End Web Development</b> & aim at <b>Full Stack Web Development</b>
 - 📫 How to reach to me: <a href="https://lemanhjcuongdev.github.io/FAKE-CV/">Lê Mạnh Cường</a>
 - ⚡ Fun fact: "I listen whatever music kind🔀"
 
